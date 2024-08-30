@@ -1,0 +1,132 @@
+{
+    "music.game.creative": {
+        "replace": true,
+        "sounds": [ {"name": "music/game/calm1"},{"name": "music/game/calm2"},{"name": "music/game/calm3"},{"name": "music/game/hal1"},{"name": "music/game/hal2"},{"name": "music/game/hal3"},{"name": "music/game/hal4"},{"name": "music/game/nuance1"},{"name": "music/game/nuance2"},{"name": "music/game/piano1"},{"name": "music/game/piano2"},{"name": "music/game/piano3"} ] }, 
+    "music.game.end.dragon": {
+        "replace": true,
+        "sounds": [ {"name": "music/game/calm1"},{"name": "music/game/calm2"},{"name": "music/game/calm3"},{"name": "music/game/hal1"},{"name": "music/game/hal2"},{"name": "music/game/hal3"},{"name": "music/game/hal4"},{"name": "music/game/nuance1"},{"name": "music/game/nuance2"},{"name": "music/game/piano1"},{"name": "music/game/piano2"},{"name": "music/game/piano3"} ] }, 
+    "music.game.end": {
+        "replace": true,
+        "sounds": [ {"name": "music/game/calm1"},{"name": "music/game/calm2"},{"name": "music/game/calm3"},{"name": "music/game/hal1"},{"name": "music/game/hal2"},{"name": "music/game/hal3"},{"name": "music/game/hal4"},{"name": "music/game/nuance1"},{"name": "music/game/nuance2"},{"name": "music/game/piano1"},{"name": "music/game/piano2"},{"name": "music/game/piano3"} ] }, 
+    "music.game": {
+        "replace": true,
+        "sounds": [ {"name": "music/game/calm1"},{"name": "music/game/calm2"},{"name": "music/game/calm3"},{"name": "music/game/hal1"},{"name": "music/game/hal2"},{"name": "music/game/hal3"},{"name": "music/game/hal4"},{"name": "music/game/nuance1"},{"name": "music/game/nuance2"},{"name": "music/game/piano1"},{"name": "music/game/piano2"},{"name": "music/game/piano3"} ] }, 
+    "music.menu": {
+        "replace": true,
+        "sounds": [ {"name": "music/game/calm1"},{"name": "music/game/calm2"},{"name": "music/game/calm3"},{"name": "music/game/hal1"},{"name": "music/game/hal2"},{"name": "music/game/hal3"},{"name": "music/game/hal4"},{"name": "music/game/nuance1"},{"name": "music/game/nuance2"},{"name": "music/game/piano1"},{"name": "music/game/piano2"},{"name": "music/game/piano3"} ] }, 
+	"music.game.end.credits": {
+        "replace": true,
+        "sounds": [ {"name": "music/game/calm1"},{"name": "music/game/calm2"},{"name": "music/game/calm3"},{"name": "music/game/hal1"},{"name": "music/game/hal2"},{"name": "music/game/hal3"},{"name": "music/game/hal4"},{"name": "music/game/nuance1"},{"name": "music/game/nuance2"},{"name": "music/game/piano1"},{"name": "music/game/piano2"},{"name": "music/game/piano3"} ] }, 
+    "music.game.nether": {
+        "replace": true,
+        "sounds": [ {"name": "music/game/nether/nether1"},{"name": "music/game/nether/nether2"},{"name": "music/game/nether/nether3"},{"name": "music/game/nether/nether4"} ] }, 
+		
+  "ambient.weather.rain": {
+    "replace": true,
+    "sounds": [
+      "ambient/weather/rain1classic",
+      "ambient/weather/rain2classic",
+      "ambient/weather/rain3classic",
+      "ambient/weather/rain4classic"
+    ],
+    "subtitle": "subtitles.weather.rain"
+  },
+  
+	"minecart.base": {
+        "replace": true,
+		"sounds": [ "x" ] },
+	"minecart.inside": {
+        "replace": true,
+		"sounds": [ "x" ] },
+				
+    "random.door_close": {
+        "replace": true,
+        "sounds": [ { "name": "random/door_close" } ] }, 
+    "random.door_open": {
+        "replace": true,
+        "sounds": [ { "name": "random/door_open" } ] }, 
+    "random.bowhit": {
+        "replace": true,
+        "sounds": [ { "name": "random/bow_hit" } ] }, 
+    "random.explode": {
+        "replace": true,
+		"sounds": [ { "name": "random/explode" } ] }, 
+		
+    "random.splash": {
+        "replace": true,
+		"sounds": [ { "name": "random/splash" } ] }, 
+    "game.neutral.swim.splash": {
+        "replace": true,
+		"sounds": [ { "name": "random/splash" } ] }, 
+    "game.player.swim.splash": {
+        "replace": true,
+		"sounds": [ { "name": "random/splash" } ] }, 
+    "game.hostile.swim.splash": {
+        "replace": true,
+		"sounds": [ { "name": "random/splash" } ] }, 
+		
+	"game.player.hurt.fall.big": {
+        "replace": true,
+		"sounds": [ { "name": "damage/fallbigclassic" }, { "name": "damage/fallbig2classic" } ] },
+	"game.player.hurt.fall.small": {
+        "replace": true,
+		"sounds": [ { "name": "damage/fallsmallclassic" } ] },
+		
+		
+	"tile.piston.in": {
+        "replace": true,
+		"sounds": [ { "name": "tile/piston/in" } ] },
+	"tile.piston.out": {
+        "replace": true,
+		"sounds": [ { "name": "tile/piston/out" } ] },
+		
+		
+	"step.grass": {
+        "replace": true,
+		"sounds": [ "dig/grass1", "dig/grass2", "dig/grass3", "dig/grass4", "dig/grass5", "dig/grass6" ] },
+	"dig.grass": {
+        "replace": true,
+		"sounds": [ "dig/grass1", "dig/grass2", "dig/grass3", "dig/grass4", "dig/grass5", "dig/grass6" ] },
+		
+	"step.gravel": {
+        "replace": true,
+		"sounds": [ "dig/gravel1", "dig/gravel2", "dig/gravel3", "dig/gravel4" ] },
+	"dig.gravel": {
+        "replace": true,
+		"sounds": [ "dig/gravel1", "dig/gravel2", "dig/gravel3", "dig/gravel4" ] },
+		
+	"step.sand": {
+        "replace": true,
+		"sounds": [ "dig/gravel1", "dig/gravel2", "dig/gravel3", "dig/gravel4" ] },
+	"dig.sand": {
+        "replace": true,
+		"sounds": [ "dig/sand1", "dig/sand2", "dig/sand3", "dig/sand4", "dig/sand5" ] },
+		
+	"step.stone": {
+        "replace": true,
+		"sounds": [ "dig/stone1", "dig/stone2", "dig/stone3", "dig/stone4", "dig/stone5", "dig/stone6" ] },
+	"dig.stone": {
+        "replace": true,
+		"sounds": [ "dig/stone1", "dig/stone2", "dig/stone3", "dig/stone4", "dig/stone5", "dig/stone6" ] },
+		
+	"step.wood": {
+        "replace": true,
+		"sounds": [ "dig/wood1", "dig/wood2", "dig/wood3", "dig/wood4", "dig/wood5", "dig/wood6" ] },
+	"dig.wood": {
+        "replace": true,
+		"sounds": [ "dig/wood1", "dig/wood2", "dig/wood3", "dig/wood4", "dig/wood5", "dig/wood6" ] },
+		
+	"step.wool": {
+        "replace": true,
+		"sounds": [ "dig/cloth1", "dig/cloth2", "dig/cloth3", "dig/cloth4" ] },
+	"dig.wool": {
+        "replace": true,
+		"sounds": [ "dig/cloth1", "dig/cloth2", "dig/cloth3", "dig/cloth4" ] },
+		
+	"step.snow": {
+        "replace": true,
+		"sounds": [ "dig/cloth1", "dig/cloth2", "dig/cloth3", "dig/cloth4" ] },
+	"dig.snow": {
+        "replace": true,
+		"sounds": [ "dig/cloth1", "dig/cloth2", "dig/cloth3", "dig/cloth4" ] }
+}
